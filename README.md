@@ -1,5 +1,5 @@
 # mids-207-final-project-summer23-Rueda-Sambrailo-Herr-Liu-Kuehl
-Final project for MIDS 207
+Final project for MIDS 207: Applied Machine Learning
 
 ## Contributors
 - Erik Sambrailo
