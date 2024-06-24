@@ -1,0 +1,308 @@
+BreedID,Type,BreedName,Group,AKC_Breed,Secondary_Group
+241,2,Abyssinian,Other,N/A,N/A
+242,2,American Curl,American,N/A,N/A
+243,2,American Shorthair,American,N/A,N/A
+244,2,American Wirehair,American,N/A,N/A
+245,2,Applehead Siamese,Other,N/A,N/A
+246,2,Balinese,Asian,N/A,N/A
+247,2,Bengal,Other,N/A,N/A
+248,2,Birman,Asian,N/A,N/A
+249,2,Bobtail,Other,N/A,N/A
+250,2,Bombay,Other,N/A,N/A
+251,2,British Shorthair,British,N/A,N/A
+252,2,Burmese,Asian,N/A,N/A
+253,2,Burmilla,Other,N/A,N/A
+254,2,Calico,Other,N/A,N/A
+255,2,Canadian Hairless,Other,N/A,N/A
+256,2,Chartreux,European,N/A,N/A
+257,2,Chausie,European,N/A,N/A
+258,2,Chinchilla,Other,N/A,N/A
+259,2,Cornish Rex,British,N/A,N/A
+260,2,Cymric,Other,N/A,N/A
+261,2,Devon Rex,British,N/A,N/A
+262,2,Dilute Calico,Other,N/A,N/A
+263,2,Dilute Tortoiseshell,Other,N/A,N/A
+264,2,Domestic Long Hair,Generic,N/A,N/A
+265,2,Domestic Medium Hair,Generic,N/A,N/A
+266,2,Domestic Short Hair,Generic,N/A,N/A
+267,2,Egyptian Mau,Other,N/A,N/A
+268,2,Exotic Shorthair,American,N/A,N/A
+269,2,Extra-Toes Cat (Hemingway Polydactyl),Other,N/A,N/A
+270,2,Havana,British,N/A,N/A
+271,2,Himalayan,Asian,N/A,N/A
+272,2,Japanese Bobtail,Asian,N/A,N/A
+273,2,Javanese,Asian,N/A,N/A
+274,2,Korat,Asian,N/A,N/A
+275,2,LaPerm,American,N/A,N/A
+276,2,Maine Coon,American,N/A,N/A
+277,2,Manx,British,N/A,N/A
+278,2,Munchkin,American,N/A,N/A
+279,2,Nebelung,American,N/A,N/A
+280,2,Norwegian Forest Cat,European,N/A,N/A
+281,2,Ocicat,European,N/A,N/A
+282,2,Oriental Long Hair,Asian,N/A,N/A
+283,2,Oriental Short Hair,Asian,N/A,N/A
+284,2,Oriental Tabby,Asian,N/A,N/A
+285,2,Persian,Other,N/A,N/A
+286,2,Pixie-Bob,American,N/A,N/A
+287,2,Ragamuffin,American,N/A,N/A
+288,2,Ragdoll,American,N/A,N/A
+289,2,Russian Blue,European,N/A,N/A
+290,2,Scottish Fold,British,N/A,N/A
+291,2,Selkirk Rex,British,N/A,N/A
+292,2,Siamese,Asian,N/A,N/A
+293,2,Siberian,European,N/A,N/A
+294,2,Silver,Other,N/A,N/A
+295,2,Singapura,Other,N/A,N/A
+296,2,Snowshoe,Asian,N/A,N/A
+297,2,Somali,American,N/A,N/A
+298,2,Sphynx (hairless cat),Other,N/A,N/A
+299,2,Tabby,Other,N/A,N/A
+300,2,Tiger,Other,N/A,N/A
+301,2,Tonkinese,Asian,N/A,N/A
+302,2,Torbie,Other,N/A,N/A
+303,2,Tortoiseshell,Other,N/A,N/A
+304,2,Turkish Angora,European,N/A,N/A
+305,2,Turkish Van,European,N/A,N/A
+306,2,Tuxedo,Other,N/A,N/A
+1,1,Affenpinscher,Toy Group,Affenpinscher,Terriers
+2,1,Afghan Hound,Hound Group,Afghan Hound,Hounds
+3,1,Airedale Terrier,Terrier Group,Airedale Terrier,Terriers
+4,1,Akbash,Working Group,,Mastiffs
+5,1,Akita,Working Group,Akita,Mastiffs
+6,1,Alaskan Malamute,Working Group,Alaskan Malamute,Mastiffs
+7,1,American Bulldog,Non-Sporting Group,Bulldog,Bulldogs
+8,1,American Eskimo Dog,Non-Sporting Group,Belgian Shepherd Dog (Tervuren),Spitz
+9,1,American Hairless Terrier,Terrier Group,Airedale Terrier,Terriers
+10,1,American Staffordshire Terrier,Terrier Group,American Staffordshire Terrier,Terriers
+11,1,American Water Spaniel,Sporting Group,American Water Spaniel,Spaniels
+12,1,Anatolian Shepherd,Herding Group,Belgian Shepherd Dog (Tervuren),Shepherds
+13,1,Appenzell Mountain Dog,Working Group,Bernese Mountain Dog,Other
+14,1,Australian Cattle Dog/Blue Heeler,Herding Group,Australian Cattle Dog,Shepherds
+15,1,Australian Kelpie,Herding Group,Australian Terrier,Shepherds
+16,1,Australian Shepherd,Herding Group,Australian Shepherd,Shepherds
+17,1,Australian Terrier,Terrier Group,Australian Terrier,Terriers
+18,1,Basenji,Hound Group,Basenji,Hounds
+19,1,Basset Hound,Hound Group,Basset Hound,Hounds
+20,1,Beagle,Hound Group,Beagle,Hounds
+21,1,Bearded Collie,Herding Group,Bearded Collie,Shepherds
+22,1,Beauceron,Herding Group,,Shepherds
+23,1,Bedlington Terrier,Terrier Group,Bedlington Terrier,Terriers
+24,1,Belgian Shepherd Dog Sheepdog,Herding Group,German Shepherd,Shepherds
+25,1,Belgian Shepherd Laekenois,Herding Group,German Shepherd,Shepherds
+26,1,Belgian Shepherd Malinois,Herding Group,German Shepherd,Shepherds
+27,1,Belgian Shepherd Tervuren,Herding Group,Belgian Shepherd Dog (Tervuren),Shepherds
+28,1,Bernese Mountain Dog,Working Group,Bernese Mountain Dog,Mastiffs
+29,1,Bichon Frise,Non-Sporting Group,Bichon Frise,Other
+30,1,Black and Tan Coonhound,Hound Group,Black and Tan Coonhound,Hounds
+31,1,Black Labrador Retriever,Sporting Group,Labrador Retriever,Retrievers
+32,1,Black Mouth Cur,Hound Group,Black and Tan Coonhound,Other
+33,1,Black Russian Terrier,Terrier Group,Border Terrier,Terriers
+34,1,Bloodhound,Hound Group,Bloodhound,Hounds
+35,1,Blue Lacy,Herding Group,Kerry Blue Terrier,Other
+36,1,Bluetick Coonhound,Hound Group,,Hounds
+37,1,Boerboel,Working Group,Boxer,Mastiffs
+38,1,Bolognese,Non-Sporting Group,,Other
+39,1,Border Collie,Herding Group,Border Collie,Shepherds
+40,1,Border Terrier,Terrier Group,Border Terrier,Terriers
+41,1,Borzoi,Hound Group,Borzoi,Hounds
+42,1,Boston Terrier,Non-Sporting Group,Boston Terrier,Terriers
+43,1,Bouvier des Flanders,Herding Group,Bouvier des Flandres,Shepherds
+44,1,Boxer,Working Group,Boxer,Mastiffs
+45,1,Boykin Spaniel,Sporting Group,English Springer Spaniel,Spaniels
+46,1,Briard,Herding Group,Briard,Shepherds
+47,1,Brittany Spaniel,Sporting Group,Brittany,Spaniels
+48,1,Brussels Griffon,Sporting Group,Wirehaired Pointing Griffon,Other
+49,1,Bull Terrier,Terrier Group,Bull Terrier,Terriers
+50,1,Bullmastiff,Working Group,Bullmastiff,Mastiffs
+51,1,Cairn Terrier,Terrier Group,Cairn Terrier,Terriers
+52,1,Canaan Dog,Non-Sporting Group,Australian Cattle Dog,Other
+53,1,Cane Corso Mastiff,Working Group,Mastiff,Mastiffs
+54,1,Carolina Dog,Hound Group,Australian Cattle Dog,Other
+55,1,Catahoula Leopard Dog,Herding Group,,Shepherds
+56,1,Cattle Dog,Herding Group,Australian Cattle Dog,Other
+57,1,Caucasian Sheepdog (Caucasian Ovtcharka),Herding Group,Shetland Sheepdog,Shepherds
+58,1,Cavalier King Charles Spaniel,Toy Group,Cavalier King Charles Spaniel,Spaniels
+59,1,Chesapeake Bay Retriever,Sporting Group,Chesapeake Bay Retriever,Retrievers
+60,1,Chihuahua,Toy Group,Chihuahua,Other
+61,1,Chinese Crested Dog,Toy Group,Chinese Crested,Other
+62,1,Chinese Foo Dog,Non-Sporting Group,Belgian Shepherd Dog (Tervuren),Other
+63,1,Chinook,Sporting Group,,Other
+64,1,Chocolate Labrador Retriever,Sporting Group,Labrador Retriever,Retrievers
+65,1,Chow Chow,Non-Sporting Group,Chow Chow,Spitz
+66,1,Cirneco dell'Etna,Hound Group,,Hounds
+67,1,Clumber Spaniel,Sporting Group,Clumber Spaniel,Spaniels
+68,1,Cockapoo,Other,,Other
+69,1,Cocker Spaniel,Sporting Group,Cocker Spaniel,Spaniels
+70,1,Collie,Herding Group,Collie,Shepherds
+71,1,Coonhound,Hound Group,Black and Tan Coonhound,Hounds
+72,1,Corgi,Herding Group,Pembroke Welsh Corgi,Other
+73,1,Coton de Tulear,Other,,Other
+74,1,Curly-Coated Retriever,Sporting Group,Curly Coated Retriever,Retrievers
+75,1,Dachshund,Hound Group,Dachshund,Hounds
+76,1,Dalmatian,Non-Sporting Group,Dalmatian,Other
+77,1,Dandi Dinmont Terrier,Terrier Group,Dandie Dinmont Terrier,Terriers
+78,1,Doberman Pinscher,Working Group,Doberman Pinscher,Other
+79,1,Dogo Argentino,Other,,Other
+80,1,Dogue de Bordeaux,Working Group,,Mastiffs
+81,1,Dutch Shepherd,Herding Group,Belgian Shepherd Dog (Tervuren),Shepherds
+82,1,English Bulldog,Non-Sporting Group,Bulldog,Bulldogs
+83,1,English Cocker Spaniel,Sporting Group,English Cocker Spaniel,Spaniels
+84,1,English Coonhound,Hound Group,English Foxhound,Hounds
+85,1,English Pointer,Sporting Group,Pointer,Other
+86,1,English Setter,Sporting Group,English Setter,Setters
+87,1,English Shepherd,Herding Group,English Springer Spaniel,Shepherds
+88,1,English Springer Spaniel,Sporting Group,English Springer Spaniel,Spaniels
+89,1,English Toy Spaniel,Toy Group,Cavalier King Charles Spaniel,Spaniels
+90,1,Entlebucher,Herding Group,,Shepherds
+91,1,Eskimo Dog,Non-Sporting Group,Australian Cattle Dog,Spitz
+92,1,Feist,Other,,Other
+93,1,Field Spaniel,Sporting Group,Field Spaniel,Spaniels
+94,1,Fila Brasileiro,Other,,Other
+95,1,Finnish Lapphund,Herding Group,,Spitz
+96,1,Finnish Spitz,Non-Sporting Group,Finnish Spitz,Spitz
+97,1,Flat-coated Retriever,Sporting Group,Flat-Coated Retriever,Retrievers
+98,1,Fox Terrier,Terrier Group,Wire Fox Terrier,Terriers
+99,1,Foxhound,Hound Group,English Foxhound,Hounds
+100,1,French Bulldog,Non-Sporting Group,French Bulldog,Bulldogs
+101,1,Galgo Spanish Greyhound,Hound Group,Greyhound,Hounds
+102,1,German Pinscher,Working Group,Doberman Pinscher,Other
+103,1,German Shepherd Dog,Herding Group,German Shepherd,Shepherds
+104,1,German Shorthaired Pointer,Sporting Group,German Shorthaired Pointer,Other
+105,1,German Spitz,Non-Sporting Group,German Shorthaired Pointer,Spitz
+106,1,German Wirehaired Pointer,Sporting Group,German Wirehaired Pointer,Other
+107,1,Giant Schnauzer,Working Group,Giant Schnauzer,Other
+108,1,Glen of Imaal Terrier,Terrier Group,Border Terrier,Terriers
+109,1,Golden Retriever,Sporting Group,Golden Retriever,Retrievers
+110,1,Gordon Setter,Sporting Group,Gordon Setter,Setters
+111,1,Great Dane,Working Group,Great Dane,Other
+112,1,Great Pyrenees,Working Group,Great Pyrenees,Other
+113,1,Greater Swiss Mountain Dog,Working Group,Bernese Mountain Dog,Other
+114,1,Greyhound,Hound Group,Greyhound,Hounds
+115,1,Harrier,Hound Group,,Hounds
+116,1,Havanese,Toy Group,Havanese,Other
+117,1,Hound,Hound Group,Norwegian Elkhound,Hounds
+118,1,Hovawart,Other,,Other
+119,1,Husky,Working Group,Siberian Husky,Other
+120,1,Ibizan Hound,Hound Group,Ibizan Hound,Hounds
+121,1,Illyrian Sheepdog,Herding Group,Belgian Sheepdog,Other
+122,1,Irish Setter,Sporting Group,Irish Setter,Setters
+123,1,Irish Terrier,Terrier Group,Irish Terrier,Terriers
+124,1,Irish Water Spaniel,Sporting Group,Irish Water Spaniel,Spaniels
+125,1,Irish Wolfhound,Hound Group,Irish Wolfhound,Hounds
+126,1,Italian Greyhound,Toy Group,Italian Greyhound,Hounds
+127,1,Italian Spinone,Other,,Other
+128,1,Jack Russell Terrier,Terrier Group,Jack Russell terrier,Terriers
+129,1,Jack Russell Terrier (Parson Russell Terrier),Terrier Group,Jack Russell terrier,Terriers
+130,1,Japanese Chin,Toy Group,Japanese Chin,Other
+131,1,Jindo,Working Group,Bernese Mountain Dog,Other
+132,1,Kai Dog,Herding Group,Australian Cattle Dog,Other
+133,1,Karelian Bear Dog,Other,Belgian Shepherd Dog (Tervuren),Other
+134,1,Keeshond,Non-Sporting Group,Keeshond,Spitz
+135,1,Kerry Blue Terrier,Terrier Group,Kerry Blue Terrier,Terriers
+136,1,Kishu,Other,,Other
+137,1,Klee Kai,Other,,Other
+138,1,Komondor,Other,,Other
+139,1,Kuvasz,Working Group,Kuvasz,Other
+140,1,Kyi Leo,Other,,Other
+141,1,Labrador Retriever,Sporting Group,Labrador Retriever,Retrievers
+142,1,Lakeland Terrier,Terrier Group,Lakeland Terrier,Terriers
+143,1,Lancashire Heeler,Other,,Other
+144,1,Leonberger,Other,,Other
+145,1,Lhasa Apso,Non-Sporting Group,Lhasa Apso,Other
+146,1,Lowchen,Other,,Other
+147,1,Maltese,Toy Group,Maltese,Other
+148,1,Manchester Terrier,Toy Group,Manchester Terrier,Terriers
+149,1,Maremma Sheepdog,Other,,Other
+150,1,Mastiff,Working Group,Mastiff,Mastiffs
+151,1,McNab,Herding Group,,Shepherds
+152,1,Miniature Pinscher,Toy Group,Miniature Pinscher,Other
+153,1,Mountain Cur,Hound Group,Bernese Mountain Dog,Other
+154,1,Mountain Dog,Working Group,Bernese Mountain Dog,Other
+155,1,Munsterlander,Sporting Group,,Retrievers
+156,1,Neapolitan Mastiff,Working Group,Mastiff,Mastiffs
+157,1,New Guinea Singing Dog,Other,,Other
+158,1,Newfoundland Dog,Working Group,Newfoundland,Other
+159,1,Norfolk Terrier,Terrier Group,Norfolk Terrier,Terriers
+160,1,Norwegian Buhund,Hound Group,Norwegian Elkhound,Other
+161,1,Norwegian Elkhound,Hound Group,Norwegian Elkhound,Hounds
+162,1,Norwegian Lundehund,Hound Group,Norwegian Elkhound,Other
+163,1,Norwich Terrier,Terrier Group,Norwich Terrier,Terriers
+164,1,Nova Scotia Duck-Tolling Retriever,Sporting Group,Golden Retriever,Retrievers
+165,1,Old English Sheepdog,Herding Group,Old English Sheepdog,Other
+166,1,Otterhound,Hound Group,Otterhound,Hounds
+167,1,Papillon,Toy Group,Papillon,Other
+168,1,Patterdale Terrier (Fell Terrier),Terrier Group,Yorkshire Terrier,Terriers
+169,1,Pekingese,Toy Group,Pekingese,Other
+170,1,Peruvian Inca Orchid,Other,,Other
+171,1,Petit Basset Griffon Vendeen,Other,Petit Basset Griffon Vend̩en,Other
+172,1,Pharaoh Hound,Hound Group,Pharaoh Hound,Hounds
+173,1,Pit Bull Terrier,Terrier Group,Bull Terrier,Terriers
+174,1,Plott Hound,Hound Group,Otterhound,Hounds
+175,1,Podengo Portugueso,Other,,Other
+176,1,Pointer,Sporting Group,Pointer,Other
+177,1,Polish Lowland Sheepdog,Herding Group,Shetland Sheepdog,Other
+178,1,Pomeranian,Toy Group,Pomeranian,Other
+179,1,Poodle,Non-Sporting Group,Poodle,Other
+180,1,Portuguese Water Dog,Working Group,Portuguese Water Dog,Other
+181,1,Presa Canario,Other,,Other
+182,1,Pug,Toy Group,Pug,Other
+183,1,Puli,Herding Group,Puli,Shepherds
+184,1,Pumi,Herding Group,Puli,Other
+185,1,Rat Terrier,Terrier Group,Yorkshire Terrier,Terriers
+186,1,Redbone Coonhound,Hound Group,,Hounds
+187,1,Retriever,Sporting Group,Golden Retriever,Retrievers
+188,1,Rhodesian Ridgeback,Hound Group,Rhodesian Ridgeback,Hounds
+189,1,Rottweiler,Working Group,Rottweiler,Other
+190,1,Saint Bernard,Working Group,Saint Bernard,Mastiffs
+191,1,Saluki,Hound Group,Saluki,Hounds
+192,1,Samoyed,Working Group,Samoyed,Spitz
+193,1,Sarplaninac,Herding Group,,Shepherds
+194,1,Schipperke,Non-Sporting Group,Schipperke,Other
+195,1,Schnauzer,Terrier Group,Miniature Schnauzer,Other
+196,1,Scottish Deerhound,Hound Group,Scottish Deerhound,Hounds
+197,1,Scottish Terrier Scottie,Terrier Group,Scottish Terrier,Terriers
+198,1,Sealyham Terrier,Terrier Group,Sealyham Terrier,Terriers
+199,1,Setter,Sporting Group,Gordon Setter,Setters
+200,1,Shar Pei,Non-Sporting Group,Chinese Shar Pei,Other
+201,1,Sheep Dog,Herding Group,Australian Cattle Dog,Other
+202,1,Shepherd,Herding Group,German Shepherd,Shepherds
+203,1,Shetland Sheepdog Sheltie,Herding Group,Shetland Sheepdog,Shepherds
+204,1,Shiba Inu,Non-Sporting Group,Shiba Inu,Spitz
+205,1,Shih Tzu,Toy Group,Shih Tzu,Other
+206,1,Siberian Husky,Working Group,Siberian Husky,Spitz
+207,1,Silky Terrier,Terrier Group,Australian Silky Terrier,Terriers
+208,1,Skye Terrier,Terrier Group,Skye Terrier,Terriers
+209,1,Sloughi,Hound Group,,Hounds
+210,1,Smooth Fox Terrier,Terrier Group,Fox Terrier (Smooth),Terriers
+211,1,South Russian Ovtcharka,Working Group,,Mastiffs
+212,1,Spaniel,Sporting Group,English Springer Spaniel,Spaniels
+213,1,Spitz,Non-Sporting Group,Finnish Spitz,Spitz
+214,1,Staffordshire Bull Terrier,Terrier Group,Staffordshire Bull Terrier,Terriers
+215,1,Standard Poodle,Non-Sporting Group,Poodle,Other
+216,1,Sussex Spaniel,Sporting Group,English Springer Spaniel,Spaniels
+217,1,Swedish Vallhund,Herding Group,,Spitz
+218,1,Terrier,Terrier Group,Yorkshire Terrier,Terriers
+219,1,Thai Ridgeback,Hound Group,Rhodesian Ridgeback,Hounds
+220,1,Tibetan Mastiff,Working Group,Mastiff,Mastiffs
+221,1,Tibetan Spaniel,Non-Sporting Group,Tibetan Spaniel,Spaniels
+222,1,Tibetan Terrier,Non-Sporting Group,Tibetan Terrier,Terriers
+223,1,Tosa Inu,Working Group,Shiba Inu,Mastiffs
+224,1,Toy Fox Terrier,Terrier Group,American Staffordshire Terrier,Terriers
+225,1,Treeing Walker Coonhound,Hound Group,,Hounds
+226,1,Vizsla,Sporting Group,Vizsla,Retrievers
+227,1,Weimaraner,Sporting Group,Weimaraner,Retrievers
+228,1,Welsh Corgi,Herding Group,Pembroke Welsh Corgi,Other
+229,1,Welsh Springer Spaniel,Sporting Group,Welsh Springer Spaniel,Spaniels
+230,1,Welsh Terrier,Terrier Group,Welsh Terrier,Terriers
+231,1,West Highland White Terrier Westie,Terrier Group,West Highland White Terrier,Terriers
+232,1,Wheaten Terrier,Terrier Group,Soft-coated Wheaten Terrier,Terriers
+233,1,Whippet,Hound Group,Whippet,Hounds
+234,1,White German Shepherd,Herding Group,German Shepherd,Shepherds
+235,1,Wire Fox Terrier,Terrier Group,Wire Fox Terrier,Terriers
+236,1,Wire-haired Pointing Griffon,Sporting Group,Wirehaired Pointing Griffon,Spaniels
+237,1,Wirehaired Terrier,Terrier Group,American Staffordshire Terrier,Terriers
+238,1,Xoloitzcuintle/Mexican Hairless,Toy Group,,Other
+239,1,Yellow Labrador Retriever,Sporting Group,Labrador Retriever,Retrievers
+240,1,Yorkshire Terrier Yorkie,Toy Group,Yorkshire Terrier,Terriers
+307,1,Mixed Breed,Generic,,Generic
